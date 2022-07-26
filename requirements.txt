@@ -1,0 +1,6 @@
+python modules used in project
+csv 
+regex 
+camelcase(made by user)
+json 
+sys
