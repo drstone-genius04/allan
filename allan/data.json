@@ -1,0 +1,346 @@
+{
+  "total": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "total",
+    "level": "0",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "13200"
+  },
+  "agriculture,Forestry,&Fishing": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Agriculture, forestry, & fishing",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "1167"
+  },
+  "agriculture": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Agriculture",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "600"
+  },
+  "commercialFishing": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Commercial fishing",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "12"
+  },
+  "forestry&Logging": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Forestry & logging",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "114"
+  },
+  "agriculture,Forestry,&FishingSupportServices": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Agriculture, forestry, & fishing support services",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "441"
+  },
+  "mining": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Mining",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "30"
+  },
+  "manufacturing": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Manufacturing",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "1380"
+  },
+  "food,Beverage,&Tobacco": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Food, beverage, & tobacco",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "273"
+  },
+  "textile,Clothing,Footwear,&Leather": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Textile, clothing, footwear, & leather",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "87"
+  },
+  "wood&PaperProduct": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Wood & paper product",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "114"
+  },
+  "printing,Publishing,&RecordedMedia": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Printing, publishing, & recorded media",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "48"
+  },
+  "petroleum,Coal,Chemical,&AssociatedProduct": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Petroleum, coal, chemical, & associated product",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "81"
+  },
+  "non-metallicMineralProduct": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Non-metallic mineral product",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "54"
+  },
+  "metalProduct": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Metal product",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "318"
+  },
+  "transportAndIndustrialMachinery&Equipment": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Transport and industrial machinery & equipment",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "258"
+  },
+  "otherMachinery&Equipment": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Other machinery & equipment",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "51"
+  },
+  "otherManufacturing": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Other manufacturing",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "99"
+  },
+  "electricity,Gas,Water,&WasteServices": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Electricity, gas, water, & waste services",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "45"
+  },
+  "construction": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Construction",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "1800"
+  },
+  "wholesaleTrade": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Wholesale trade",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "918"
+  },
+  "machinery&EquipmentWholesaling": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Machinery & equipment wholesaling",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "234"
+  },
+  "otherWholesaleTrade": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Other wholesale trade",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "684"
+  },
+  "retailTrade": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Retail trade",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "1380"
+  },
+  "accommodation&FoodServices": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Accommodation & food services",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "2505"
+  },
+  "transport,Postal,&Warehousing": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Transport, postal, & warehousing",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "441"
+  },
+  "informationMedia&Telecommunications": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Information media & telecommunications",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "87"
+  },
+  "publishing": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Publishing",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "27"
+  },
+  "motionPicture": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Motion picture",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "33"
+  },
+  "telecommunications": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Telecommunications",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "24"
+  },
+  "financial&InsuranceServices": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Financial & insurance services",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "108"
+  },
+  "finance": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Finance",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "33"
+  },
+  "insurance": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Insurance",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "3"
+  },
+  "auxiliary": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Auxiliary",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "75"
+  },
+  "rental,Hiring,&RealEstateServices": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Rental, hiring, & real estate services",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "270"
+  },
+  "professional,Scientific,&TechnicalServices": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Professional, scientific, & technical services",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "912"
+  },
+  "computerSystemsDesign": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Computer systems design",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "207"
+  },
+  "otherProfessionalScientific": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Other professional scientific",
+    "level": "2",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "708"
+  },
+  "administrative&SupportServices": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Administrative & support services",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "435"
+  },
+  "education&Training": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Education & training",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "348"
+  },
+  "healthCare&SocialAssistance": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Health care & social assistance",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "762"
+  },
+  "arts&RecreationServices": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Arts & recreation services",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "126"
+  },
+  "otherServices": {
+    "description": "Extent business thinks private sector can support NZ's response: Don't know",
+    "industry": "Other services",
+    "level": "1",
+    "size": "total",
+    "line_code": "C2600.05",
+    "value": "480"
+  }
+}
